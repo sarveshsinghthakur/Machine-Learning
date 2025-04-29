@@ -1,3 +1,6 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
 Credit[[:space:]]Card[[:space:]]Fraud[[:space:]]Detection/best_model.pkl filter=lfs diff=lfs merge=lfs -text
 House[[:space:]]price/best_model.pkl filter=lfs diff=lfs merge=lfs -text
 Credit[[:space:]]Card[[:space:]]Fraud[[:space:]]Detection/Dataset/creditcard.csv filter=lfs diff=lfs merge=lfs -text
